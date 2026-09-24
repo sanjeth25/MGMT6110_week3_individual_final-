@@ -1,0 +1,6 @@
+{
+  "name": "Singapore HDB Resale Flat Price Explorer",
+  "description": "Real-time median resale flat price explorer for Singapore HDB towns and flat types, powered by official data.gov.sg datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
